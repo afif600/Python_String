@@ -42,7 +42,7 @@ print(txt.replace("H", "J"))
 
 ![gambar 2](screenshot/latihan1_o.png)
 
-## 1. Latihan :
+## 2. Latihan :
 
 ![gambar 3](screenshot/latihan2.png)
 
